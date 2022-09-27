@@ -36,9 +36,11 @@ Here is my ranking of strokes:
 3. Front stroke
 4. Back stroke
 
-Attached below is a picture of breastroke.
-![breastroke](https://www.ocregister.com/wp-content/uploads/migration/mq3/mq3ya4-b781143911z.120130717180937000glm1eujr1.1.jpg?w=620)
-The face the swimmer makes is because of breathing
+Attached below is a picture of breastroke.  
+
+![breastroke](https://www.ocregister.com/wp-content/uploads/migration/mq3/mq3ya4-b781143911z.120130717180937000glm1eujr1.1.jpg?w=620)  
+
+The face the swimmer makes is because of breathing.
 
 ## Goals
 So for the last 300 days I decided to not have/act upon any goals. 
