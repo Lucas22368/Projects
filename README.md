@@ -1,2 +1,3 @@
 # Projects
-Lucas's User Page
+Lucas's User Page  
+Python is my favorite language I have used it for developing company programs.
