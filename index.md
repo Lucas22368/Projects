@@ -6,7 +6,7 @@ During my high school years up until 2020 I was in competitive swimming.
 My goal of becoming an Olympian failed when the pandemic stopped practices and cancelled my final high school swim meet. 
 Now I am in UCSD as a Junior studying Computer Science trying to get jacked by lifting weights.
 A picture of me as a kid in Canada:
-![On a rollercoaster](https://photos.google.com/photo/AF1QipP-dkoQ0EKfFal7UL37r6NV2Rd7DpWQiCznisI5)
+![On a rollercoaster](https://photos.google.com/share/AF1QipNglqQx9nZHRhQRzwpqGQ1B9dfkpqHdz8Sa7G77U8wGIT2KLuOMOwi3kZUe5NmNGQ/photo/AF1QipNTE6h6gX8xLu0pCewWYZTMIkBp6EFGQFhJPJok?key=c29FLUNDRUx1Wi1tTmNnVEFfd2VKcW1uVGR5OW5R)
 ## Programming
 As a programmer my favorite language is python. 
 I developed progams for a company which would "steal" a bunch of information from other websites by webscraping. 
@@ -37,7 +37,7 @@ Here is my ranking of strokes:
 4. Back stroke
 
 Attached below is a picture of me doing breastroke.
-![A god doing breastroke](https://photos.google.com/search/_tra_/photo/AF1QipPEsFaUWb_BIPJkjG-j-JF2-FvT50BC7vpQFjim)
+![A god doing breastroke](https://photos.google.com/share/AF1QipPaKLWxArSEvyXRG-auVSUrRENV-T_nJVLIumL3lRM7hG71eQGO3S5Q2yDRVIcebQ/photo/AF1QipPrsX9JIMnYZvE2XoDVjYVRnIFykm811spyvbgh?key=bDJOSTJjVWp5a09QY0doZzVlSno1ei1ZSzJFMXR3)
 The face is because I am breathing and I am the one in the lead :).
 
 ## Goals
