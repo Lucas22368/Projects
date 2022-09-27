@@ -37,7 +37,7 @@ Here is my ranking of strokes:
 4. Back stroke
 
 Attached below is a picture of me doing breastroke.
-![A god doing breastroke](https://photos.google.com/share/AF1QipPaKLWxArSEvyXRG-auVSUrRENV-T_nJVLIumL3lRM7hG71eQGO3S5Q2yDRVIcebQ/photo/AF1QipPrsX9JIMnYZvE2XoDVjYVRnIFykm811spyvbgh?key=bDJOSTJjVWp5a09QY0doZzVlSno1ei1ZSzJFMXR3)
+![A god doing breastroke](https://photos.app.goo.gl/3SKLZbKczjAcpgKH9)
 The face is because I am breathing and I am the one in the lead :).
 
 ## Goals
