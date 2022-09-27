@@ -5,8 +5,8 @@ I moved to Los Angeles In 2016.
 During my high school years up until 2020 I was in competitive swimming.
 My goal of becoming an Olympian failed when the pandemic stopped practices and cancelled my final high school swim meet. 
 Now I am in UCSD as a Junior studying Computer Science trying to get jacked by lifting weights.
-A picture of me as a kid in Canada:
-![On a rollercoaster](https://photos.google.com/share/AF1QipNglqQx9nZHRhQRzwpqGQ1B9dfkpqHdz8Sa7G77U8wGIT2KLuOMOwi3kZUe5NmNGQ/photo/AF1QipNTE6h6gX8xLu0pCewWYZTMIkBp6EFGQFhJPJok?key=c29FLUNDRUx1Wi1tTmNnVEFfd2VKcW1uVGR5OW5R)
+A picture of my town:
+![Markham](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/MarkhamCivicCenter5.jpg/250px-MarkhamCivicCenter5.jpg)
 ## Programming
 As a programmer my favorite language is python. 
 I developed progams for a company which would "steal" a bunch of information from other websites by webscraping. 
@@ -36,9 +36,9 @@ Here is my ranking of strokes:
 3. Front stroke
 4. Back stroke
 
-Attached below is a picture of me doing breastroke.
-![A god doing breastroke](https://photos.app.goo.gl/3SKLZbKczjAcpgKH9)
-The face is because I am breathing and I am the one in the lead :).
+Attached below is a picture of breastroke.
+![breastroke](https://www.ocregister.com/wp-content/uploads/migration/mq3/mq3ya4-b781143911z.120130717180937000glm1eujr1.1.jpg?w=620)
+The face the swimmer makes is because of breathing
 
 ## Goals
 So for the last 300 days I decided to not have/act upon any goals. 
