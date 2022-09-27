@@ -6,6 +6,7 @@ During my high school years up until 2020 I was in competitive swimming.
 My goal of becoming an Olympian failed when the pandemic stopped practices and cancelled my final high school swim meet. 
 Now I am in UCSD as a Junior studying Computer Science trying to get jacked by lifting weights.
 A picture of my town:
+
 ![Markham](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/MarkhamCivicCenter5.jpg/250px-MarkhamCivicCenter5.jpg)
 ## Programming
 As a programmer my favorite language is python. 
@@ -18,14 +19,14 @@ If you ever wanted to learn webscraping on python use these two lines below to d
 `pip install selenium`
 `pip install beautifulsoup4`
 Also I learned webscraping on [dataquest](https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/).
-Currently I have knowledge in
--python
--java
--C
--C++
--github
--vim
--Arm
+Currently I have knowledge in:
+- *python*
+- *java*
+- *C*
+- *C++*
+- *github*
+- *vim*
+- *Arm*
 
 
 ## About Swimming
